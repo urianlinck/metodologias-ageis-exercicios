@@ -6,7 +6,9 @@
  ```node
  npm install
  ```
- - Segue .gif demonstrando o passo de instalação:
+ - Segue .gif demonstrando o passo de instalação, após copiar o link do fork:
+![npm-i](https://user-images.githubusercontent.com/52759918/223799337-5e4a1d66-ca89-4089-80c5-bdcfc68aebf9.gif)
+
  - Após instalação, siga a leitura do enunciado.
 
 ## ENUNCIADO
