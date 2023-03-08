@@ -6,6 +6,7 @@
  ```node
  npm install
  ```
+ - Segue .gif demonstrando o passo de instalação:
  - Após instalação, siga a leitura do enunciado.
 
 ## ENUNCIADO
@@ -17,23 +18,25 @@
 - Infelizmente nosso tempo é curto, então **DEVEMOS NOS ATENTAR AO GERENCIAMENTO DE TEMPO**.
 
 ## EXERCÍCIO 1
-Escreva uma função que receba um número, pertencente exclusivamente ao conjunto dos Naturais e que retorne se o valor do número representando um ano com 4 digitos seria ou não bissexto. Porém para dados de entrada < 0, deve ser impresso uma string "INVALID"
-  Exemplo: input: 2024, output: "TRUE"
-  Exemplo: input: 2025, output: "FALSE"
-  Exemplo: input: -1234, output: "INVALID"
+Escreva uma função que receba um número, pertencente exclusivamente ao conjunto dos Naturais e que retorne se o valor do número representando um ano com 4 digitos seria ou não bissexto. Porém para dados de entrada < 0, deve ser impresso uma string "INVALID".
+
+  Exemplo: input: 2024, output: "TRUE"<br/>
+  Exemplo: input: 2025, output: "FALSE"<br/>
+  Exemplo: input: -1234, output: "INVALID"<br/>
 
 ## EXERCÍCIO 2
 Escreva uma função que simula uma escolha do jogo PEDRA, PAPEL e TESOURA. Ao chamá-la deve ser retornado aleatoriamente uma string com um desses valores.
-  Exemplo: output: "PEDRA"
-  Exemplo: output: "PAPEL"
-  Exemplo: output: "TESOURA"
-  Observação: Função sem parâmetro, não espera um dado de entrada e sim, somente sua execução.
+
+  Exemplo: output: "PEDRA"<br/>
+  Exemplo: output: "PAPEL"<br/>
+  Exemplo: output: "TESOURA"<br/>
+  Observação: Função sem parâmetro, não espera um dado de entrada e sim, somente sua execução.<br/>
 
 ## EXERCÍCIO 3
 Escreva uma função que recebe um número pertencente exclusivamente ao conjunto dos Naturais, e retorna uma string com "TRUE" para primo, "FALSE" para não primo e "INVALID" para valores de entrada <= 1.
-  Exemplo: input: 13, output: "TRUE"
-  Exemplo: input: 12, output: "FALSE"
-  Exemplo: input: 1, output: "INVALID"
+  Exemplo: input: 13, output: "TRUE"<br/>
+  Exemplo: input: 12, output: "FALSE"<br/>
+  Exemplo: input: 1, output: "INVALID"<br/>
 
 
 ## ATENÇÃO
