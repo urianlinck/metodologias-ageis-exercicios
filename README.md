@@ -55,20 +55,22 @@ Escreva uma função que recebe um número pertencente exclusivamente ao conjunt
 
 - Testando EXERCÍCIO 1:
 ```node
-npm jest exercicio1.test.js
+npx jest exercicio1.test.js
 ```
 
 - Testando EXERCÍCIO 2:
 ```node
-npm jest exercicio2.test.js
+npx jest exercicio2.test.js
 ```
 
 - Testando EXERCÍCIO 3:
 ```node
-npm jest exercicio3.test.js
+npx jest exercicio3.test.js
 ```
 
 - Caso prefira rodar todos os testes de uma única só vez, você pode digitar o seguinte comando:
 ```node
 npm run test
 ```
+- Segue .gif demonstrando a realização dos testes:
+![npx-jest](https://user-images.githubusercontent.com/52759918/223805317-7be10e97-d377-4ec6-9126-d3f59940c4ab.gif)
