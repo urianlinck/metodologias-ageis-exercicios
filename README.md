@@ -44,7 +44,7 @@ Escreva uma função que recebe um número pertencente exclusivamente ao conjunt
 ## ATENÇÃO
 - Nosso cliente disse que **NÃO TEMOS AUTORIZAÇÃO** para mexer no package.json, nenhum arquivo na pasta de "tests", não devemos alterar o nome de nossas funções presentes no "./src/index.js" e não alterar os arquivos de configurações como babel.config.js e jest.config.js.
 - O cliente explicou que essa exigência é necessário uma vez que já adequaram como será a integração dessas soluções em sua plataforma digital.
-- O Cliente reforçou e disse que fomos contratados **SOMENTE PARA DESENVOLVIMENTO DAS FUNÇÕES**. Qualquer alteração não prevista, deve ser comunicado de imediato.
+- Foi reforçado que fomos contratados **SOMENTE PARA DESENVOLVIMENTO DAS FUNÇÕES**. Qualquer alteração não prevista, deve ser comunicado de imediato.
 
 ## TESTES DAS FUNÇÕES
 - Após a realização da construção do corpo de nossas funções, nós precisamos testar e averiguar se estão funcionando como o esperado, para isso, vamos novamente abrir o terminal Bash na pasta de nosso exercício e realizar os seguintes comandos para testar função por função.
